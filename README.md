@@ -1,2 +1,2 @@
-# PortofolioSalmaRosita
-This is my Portfolio
+# SalmaRositaPortofolio
+This is Salma Rosita's Website Portofolio
